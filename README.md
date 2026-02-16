@@ -17,7 +17,7 @@
 
 ## 🎯 Sobre o Projeto
 
-**FolderScribe** (anteriormente Transquever) é uma aplicação desktop leve e elegante que permite visualizar e exportar toda a estrutura de arquivos e pastas de um diretório. Ideal para:
+**FolderScribe** é uma aplicação desktop leve e elegante que permite visualizar e exportar toda a estrutura de arquivos e pastas de um diretório. Ideal para:
 
 - 📊 **Documentação de projetos** - Gere uma lista completa da estrutura do seu projeto
 - 🗂️ **Organização pessoal** - Visualize rapidamente o conteúdo de suas pastas
@@ -121,7 +121,7 @@ A aplicação mostrará:
 ### Interface Principal
 ```
 ┌─────────────────────────────────────┐
-│  Tq  Transquever                    │
+│  Tq                      │
 │      Organize e transcreva seus     │
 │      arquivos                       │
 ├─────────────────────────────────────┤
