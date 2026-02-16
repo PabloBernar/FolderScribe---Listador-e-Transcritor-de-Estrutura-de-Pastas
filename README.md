@@ -1,0 +1,1 @@
+# FolderScribe---Listador-e-Transcritor-de-Estrutura-de-Pastas
